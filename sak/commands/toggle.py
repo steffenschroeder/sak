@@ -18,4 +18,3 @@ def _get_name(name):
         return name[1:]
     else:
         return "." + name
-

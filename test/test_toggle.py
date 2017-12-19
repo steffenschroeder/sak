@@ -1,5 +1,5 @@
-import unittest
 import os
+import unittest
 
 from sak.commands.toggle import _get_name, toggle
 
