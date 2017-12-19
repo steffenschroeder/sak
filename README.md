@@ -3,7 +3,7 @@
 ### Usage
 - `sak component` hides component
 - `sak .component` unhides component
-- `sak release component``releases component
+- `sak release component` releases component
 - `sak clone component` clones component
 
 ## Installing
